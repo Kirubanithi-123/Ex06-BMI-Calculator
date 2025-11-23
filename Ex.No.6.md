@@ -1,6 +1,6 @@
 # Ex06 BMI Calculator
-## Name : Ramkumar G
-## Reg No: 212223220084
+## Name : KIRUBANITHI S
+## Reg No: 212223220047
 
 ## Date:
 
